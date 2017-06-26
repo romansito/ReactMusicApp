@@ -19,8 +19,8 @@ export default class PlatziMusic extends Component {
 
   render() {
 
-    const image = 'https://www.google.com/search?q=coldplay&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiTtKmwpM3UAhVB-2MKHaXfA1MQ_AUIDCgD&biw=1437&bih=873&dpr=2#imgrc=_'
-    const name = 'Cold Play'
+    const image = 'https://static.platzi.com/media/files/bowie_a927fdf3-b321-4a5c-99ca-239cc86c57bc.png'
+    const name = 'David Bowie'
     return (
       <View style={styles.container}>
         <View style={styles.artistBox}>
